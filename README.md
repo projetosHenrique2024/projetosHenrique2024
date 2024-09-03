@@ -3,8 +3,6 @@
 </h1>
 <h3>Desenvolvedor Web Front-End </h3>
 
-![snake gif](https://github.com/juninho15830/juninho15830/blob/output/github-contribution-grid-snake.gif)
-
 <p> Formando em Analise e Desenvolvimento de Sistemas</p>
 
 <p>Atualmente estou focando nos estudos em programação</p>
@@ -14,8 +12,6 @@
 ![projetosHenrique2024 GitHub stats](https://github-readme-stats.vercel.app/api?username=projetosHenrique2024&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
-
-![projetosHenrique2024 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=projetosHenrique2024&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
