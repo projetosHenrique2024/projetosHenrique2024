@@ -1,53 +1,25 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+projetosHenrique2024!;" />
+</h1>
+<h3>Desenvolvedor Web Front-End </h3>
 
-###
+![snake gif](https://github.com/juninho15830/juninho15830/blob/output/github-contribution-grid-snake.gif)
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p> Formando em Analise e Desenvolvimento de Sistemas</p>
 
-###
+<p>Atualmente estou focando nos estudos em programação</p>
 
-<p align="left">- 📚 Atualmente estou aprendendo analise e desenvolvimento de sistemas⚡ No meu tempo livre eu gosto de aprender mais sobre programação.</p>
+<p>Criatividade, facilidade em aprender e ensinar, trabalho em equipe e raciocínio lógico fazem parte do meu perfil.</p>
 
-###
+![projetosHenrique2024 GitHub stats](https://github-readme-stats.vercel.app/api?username=projetosHenrique2024&show_icons=true&theme=dracula&count_private=true)
 
-<h3 align="center">🛠Linguagem e ferramentas</h3>
+## Tecnologias que eu uso no meu dia
 
-###
+![projetosHenrique2024 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=projetosHenrique2024&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-</div>
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+ </div><br/>
 
-###
 
-<h3 align="center">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=projetosHenrique2024&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/projetosHenrique2024/projetosHenrique2024/output/snake.svg" alt="Snake animation" />
-
-###
